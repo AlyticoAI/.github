@@ -5,7 +5,7 @@ issue for a suspected vulnerability or credential leak.
 
 ## Reporting
 
-Email [security contact to be filled in] with:
+Email Amit Agarwal <amit.agarwal@alyticoai.com> with:
 - A description of the issue and its potential impact
 - Steps to reproduce, if applicable
 - Any relevant logs or affected commits/files
