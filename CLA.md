@@ -35,4 +35,4 @@ future contributions to AlyticoAI repositories:
    apply to work covered by a separate employment or contractor agreement
    with the Company, which governs instead.
 
-Questions: contact [legal/contact email to be filled in].
+Questions: contact Amit Agarwal <amit.agarwal@alyticoai.com>.
